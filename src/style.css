@@ -1,0 +1,14 @@
+.winner {
+  border: solid 2px green;
+}
+
+
+.text-red {
+  color: red;
+}
+
+#color-btn {
+  background-color: aqua;
+  padding: 30px;
+  cursor: pointer;
+}
